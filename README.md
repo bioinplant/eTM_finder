@@ -29,14 +29,16 @@ result file would like this
 
 explanation:
            
-           for the first line, the '>Chr1_37186146_37186795' means the title of your input sequence;
- 										the '62..85' means the location of eTM in your input seq, '(+)' means the strand is '+';
- 										the 'GCTGAAAGCTTGGGGAGGCAGCAG' is the eTM binding sequence;
- 										the '>osa-miR444a-3p.1#osa-miR444d.1	CGTCGTTCGAAC---TCCGTCGTT' means the miRNA and its binding state.
- 										like this:
- 										eTM seq 5' GCTGAAAGCTTGGGGAGGCAGCAG 3'
- 										           ::o:o:::::::   ::::::::.
- 										miRNA   3' CGTCGTTCGAAC---TCCGTCGTT 5' 
+           for the first line, 
+           the '>Chr1_37186146_37186795' means the title of your input sequence;
+           the '62..85' means the location of eTM in your input seq, '(+)' means the strand is '+';
+           the 'GCTGAAAGCTTGGGGAGGCAGCAG' is the eTM binding sequence;
+           the '>osa-miR444a-3p.1#osa-miR444d.1	CGTCGTTCGAAC---TCCGTCGTT' means the miRNA and its binding state.
+           like this:
+           eTM seq 5' GCTGAAAGCTTGGGGAGGCAGCAG 3'
+                      ::o:o:::::::   ::::::::.
+           miRNA   3' CGTCGTTCGAAC---TCCGTCGTT 5' 
+
 
 # Please cite
 Ye et al., Genome-wide identification of non-coding RNAs interacted with microRNAs in soybean. Frontiers in plant science 5 (2014): 743.
